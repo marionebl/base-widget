@@ -1,2 +1,2 @@
 # base-widget
-Editor widget used by slap-editor/slap
+class BaseWidget extends blessed.Box used by slap-editor/slap
